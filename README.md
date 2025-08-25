@@ -1,6 +1,6 @@
-# Python Arithmetic Programs
+## Python Arithmetic Programs
 
-#This repository contains two simple Python programs that demonstrate basic arithmetic operations.
+## This repository contains two simple Python programs that demonstrate basic arithmetic operations.
 
 ## Part 1: Addition and Subtraction
 - Asks the user to input two numbers (`num1` and `num2`).
